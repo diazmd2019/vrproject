@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vandalized Room
+* source:	https://sketchfab.com/3d-models/vandalized-room-dbdecb3dae5d4898872880a3a95dcec8
+* author:	jimbogies (https://sketchfab.com/jimbogies)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vandalized Room" (https://sketchfab.com/3d-models/vandalized-room-dbdecb3dae5d4898872880a3a95dcec8) by jimbogies (https://sketchfab.com/jimbogies) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
